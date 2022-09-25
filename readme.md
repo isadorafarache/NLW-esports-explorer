@@ -5,9 +5,9 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 [🔗 Clique aqui para acessar](https://isadorafarache.github.io/nlw-esports-explorer/)
 
-🛠 Tecnologias
+##🛠 Tecnologias
 HTML
 CSS
 Git e Github
-🖤 Contato
+##🖤 Contato
 farachedev@gmail.com
