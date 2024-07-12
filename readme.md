@@ -6,7 +6,7 @@ Trilha Explorer
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://isadorafarache.github.io/nlw-esports-explorer/)
+[🔗 Clique aqui para acessar]((https://isadorafarache.github.io/NLW-esports-explorer/))
 
 
 ## 🛠 Tecnologias
